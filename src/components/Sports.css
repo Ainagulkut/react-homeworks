@@ -1,0 +1,26 @@
+.sport{
+    display: flex;
+}
+
+.sport1{
+    
+    
+    
+    background-color:#62D0DF;
+    padding: 100px;
+}
+
+.sport2{
+ background-color: #DEE1FF;
+ padding: 110px;
+}
+
+.sport3{
+ background-color: #8F00FF;
+padding: 110px;
+}
+
+.textsport{
+    color: aliceblue;
+    font-weight: 600;
+}

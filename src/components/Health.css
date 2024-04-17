@@ -1,0 +1,30 @@
+.healthCard{
+display: flex;
+ padding: 50px;
+    
+}
+.health1{
+    padding: 120px;
+    
+    
+    background-color: #22356F;
+    text-align: start;
+    
+}
+
+.health2{
+    
+    background-color: #0052C1;
+    padding: 180px;
+    
+}
+
+.health3{
+    
+    background-image: url(../assets/images/joanna-kosinska-340748.png);
+    padding: 110px;
+}
+.texthealth{
+    color: aliceblue;
+    font-weight: 600;
+}

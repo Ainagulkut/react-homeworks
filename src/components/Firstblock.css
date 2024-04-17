@@ -1,0 +1,49 @@
+.firstblock{
+    display: flex;
+    
+    
+    padding: 30px;
+}
+
+.title{
+    font-size: 20px;
+    font-weight: 800;
+    color: #22356F;
+}
+.text{
+    font-size: 15px;
+    color: #22356F;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+.info{
+    width: 250px;
+    padding: 30px;
+}
+.yellow-btn{
+    width: 100px;
+    height: 20px;
+    
+    background-color: #F9B640;
+    color: beige;
+    text-transform: uppercase;
+    padding: 10px;
+}
+
+.what{
+    color: #F9B640;
+    padding: 20px;
+}
+.yellow{
+    display: flex;
+    padding-top: 30px;
+    
+}
+.photoMen{
+    
+    padding: 50px;
+    width: 400px;
+    height: 400px;
+}
